@@ -2,6 +2,9 @@
 
 This project demonstrates how to find daily changes in Azure billing data using PowerBI
 
+![Delta Daily Costs](docs/dailycostsdelta.jpg "Delta Daily Costs")
+dailycostsdelta
+
 Workflow:
 
 - Aggregate daily instance usage by resourge group 
