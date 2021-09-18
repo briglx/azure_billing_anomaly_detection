@@ -2,7 +2,7 @@
 
 This project demonstrates how to find daily changes in Azure billing data using PowerBI
 
-![Delta Daily Costs](docs/dailycostsdelta.jpg "Delta Daily Costs")
+![Delta Daily Costs](docs/dailycostsdelta.jpg) "Delta Daily Costs")
 dailycostsdelta
 
 Workflow:
